@@ -1,0 +1,11 @@
+@charset "utf-8";
+/* CSS Document */
+.form-group{
+	width: 100%;
+	max-width: 500px;
+	margin: 0 auto;
+	margin-bottom: 150px;
+}
+.btn.btn-success{
+	margin-top: 50px;
+}
